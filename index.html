@@ -3,7 +3,13 @@
 <head>
   <title>My First HTML</title>
   
-  <!-- TODO Добавить стили -->
+ <link rel="stylesheet" href="styles.css">
+<style>
+  .one{
+    border:1px solid black;
+    text-align:center;
+  }
+</style>
 
 </head>
 <body>
@@ -11,18 +17,20 @@
 <h2>All users</h2>
 <p>Listeners data</p>
 
-<table style="width:100%">
+<table style="width:100%" class="one">
   <tr>
     <th>Firstname</th>
     <th>Lastname</th> 
     <th>Age</th>
   </tr>
-  
-  <!-- Ждем контент -->
-
+  <tr class="one">
+    <td class="one">Aleksandr</td>
+    <td class="one">Shakhray</td>
+    <td class="one">31</td>
+  </tr>
 </table>
 
-<!-- <p>TODO text</p> -->
+<p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nam distinctio non rerum assumenda nihil ut atque voluptate optio repudiandae sit aut, asperiores nostrum suscipit deleniti amet nisi excepturi, voluptates tenetur.</p>
 
 </body>
 </html>
