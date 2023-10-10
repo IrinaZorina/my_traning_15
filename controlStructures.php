@@ -5,10 +5,11 @@
     <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Document</title>
-    <link rel="stylesheet" href="css/controlStructures.css">
+    <link rel="stylesheet" href="css/style_tasks.css">
 </head>
 <body>
 <div class="main-container wrapper">
+    <h1 class="title">Слайд 23</h1>
     <div class="wrapperOne">
         <div>Задание 1</div>
         <form>

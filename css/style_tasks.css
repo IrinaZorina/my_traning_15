@@ -1,0 +1,33 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #f5f7fa;
+    padding: 100px 90px;
+}
+
+.wrapper {
+    display: flex;
+
+    width: 1200px;
+    background-color: #ffff;
+    margin: 40px;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+    padding: 100px 90px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.wrapperOne {
+    margin-right: 100px;
+}
+
+.wrapperTwo {
+    margin-right: 100px;
+}
+
+.wrapperTree {
+
+}
+
+.title {
+    margin: 0 50px 0 0;
+}
